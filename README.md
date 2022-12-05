@@ -8,33 +8,54 @@
 svkarthik86/svkarthik86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html>
-    <head><title>My Resume </title></head>
-    <body>
-        <h1>Karthik Venkatachalam</h1>
-            <p><i><b>Data Analytics Trainer</b></i></p>
-            <p><em>email:karthik@edubridgeindia.com</em></p>
-            <hr/>
-            <h2><i>Summary</i></h2>
-            <p>Experienced Technical Trainer with a demonstrated history of working in the higher education industry. Skilled in Data Analytics, Machine Learning, Python, Advanced Python, R, SAS, Excel Data Analytics, Java, C, C++, Training, E-Learning, Science, and Public Speaking. Strong education professional with a Bachelor of Technology in Information Technology from Dr. MGR University and a Master of Engineering (MEng) focused in Computer Science from Anna University </p>
-<img src="https://media-exp1.licdn.com/dms/image/C5103AQHleVX4_Bs2Bg/profile-displayphoto-shrink_200_200/0/1517100487058?e=1669248000&v=beta&t=qyxfhx21MUPX7K_b09xKISTX_yBijG2_Gq8Srj4toTw" alt="karthik picture">
-<h2><b>Experience</b></h2>
-<ul>
-  <li><b>Data Analytics Trainer- EduBridge | 2021- Present</b>
-  <p> Training and Devlopment, Handling Online Techical session Python,R,ML,Data analytics, Data Structure and Algorithm</p>
-  </li>
-  <li><b>Assistant Professor- Jain University | 2019- 2021 </b>
-  <p> Training and Devlopment, Handling Online Techical session Python,R,ML,Data analytics, Data Structure and Algorithm</p>
-  </li>
-</ul>
-<h2><b>Skills</b></h2>
-<ul>
-  <li>Python PRogramming</li>
-  <li>Java PRogramming</li>
-  <li>HTML,CSS,JavaScript Programming</li>
-</ul>
+	<head>
+        <title>KARTHIK RESUME</title>
+	</head>
+	<body>
+        <h1>Karthik Venkatachalam<h1>
+	    <p><strong>Data Analytics Trainer</strong> </p>
+		<img src='https://media-exp1.licdn.com/dms/image/C5103AQHleVX4_Bs2Bg/profile-displayphoto-shrink_400_400/0/1517100487058?e=1675296000&v=beta&t=_zL6fHDd7CdLCfQ3J8Xo3mQEaY_ydAj6Ert3jduu1gs',
+		alt='karthik pic'style='border-style: inset;' width="20%">
+		<hr/>
+		<h2><i>Summary</i></h2>
+		<p>To strive for academic excellence and impart quality education with an emphasis on Computer Science & Engineering. To inculcate the habit of executing effective implementation and rectification of Computer Engineering problems in the minds of all concerned, which they can apply in their professional life in the future.</P>
+		<h2><em>Experience</em></h2>
+		<ul>
+			<li><b>Data Analytics Trainer</b>|2022-present
+			<p> Train the Learner with Programming HTML,CSS,JS,Python</P>
+			</li>
+			<li><b>Corporate Trainer</b>|2019-2022
+			<p> Training with Programming Python , R, SAS</P>
+			</li>
+		</ul>
+		<h2><em>Skills</em></h2>
+		<table border="2">
+			<tr>
+				<th>Technologies</th>
+				<td>Python</td>
+				<td>Java</td>
+				<td>Django Framework</td>
+			</tr>
+			<tr>
+				<th>Soft Skills</th>
+				<td>Problem Solving</td>
+				<td>Team Work</td>
+				<td>Flexibility</td>
+			</tr>
+		</table>
+		<h2><i>Contacts</i></h2>
+<a href="www.linkedin.com/in/svkarthik86" target="_blank">LinkedIN</a>
 
+<a href="https://github.com/svkarthik86" target="_blank">GitHub</a>
+<h2><em>Write me a message</em> </h2>
+<form>
+    <input placeholder="Name" required /><br>
+    <input placeholder="Email" required /><br>
+    <textarea placeholder="Message" required ></textarea><br>
+    <input type="submit" value="SEND"/>
+</form>
 
-    </body>
+	</body>
 </html>
