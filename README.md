@@ -8,18 +8,7 @@
 svkarthik86/svkarthik86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html>
-<html>
-	<head>
-        <title>KARTHIK RESUME</title>
-	</head>
-	<body>
-        <h1>Karthik Venkatachalam<h1>
-	    <p><strong>Data Analytics Trainer</strong> </p>
-		<img src='https://media-exp1.licdn.com/dms/image/C5103AQHleVX4_Bs2Bg/profile-displayphoto-shrink_400_400/0/1517100487058?e=1675296000&v=beta&t=_zL6fHDd7CdLCfQ3J8Xo3mQEaY_ydAj6Ert3jduu1gs',
-		alt='karthik pic'style='border-style: inset;' width="20%">
-		</body>
-		</html>
+
 		
 # Welcome to my profile webpage!
 
