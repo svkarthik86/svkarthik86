@@ -5,7 +5,7 @@
 - 📫reach me ...svkarthik86@gmail.com 
 what-is-data-analyst.jpg
 
-<img src="what-is-data-analyst.jpg"  width="60%" height="30%">
+<img src="what-is-data-analyst.jpg"  width="125%" height="15%">
 <!---
 svkarthik86/svkarthik86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
