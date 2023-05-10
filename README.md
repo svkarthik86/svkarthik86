@@ -26,8 +26,8 @@ I have expertise in various skills such as:
 |   S.No             |  Skills
 | -----------        | -----------   |
 | 1                  | Python        |
-| 2		     | RProgramming  |
-| 3                  | Python        |
+| 2		     | R Programming  |
+| 3                  | Advance Python        |
 | 4		     | Machine Learning Algorithms  |		
 | 5                  | Excel VBA       |
 | 6		     | SAS Programming |		
