@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science,Machine Learning, Internet of Things
 - 🌱 I’m currently learning and Research...
 - 💞️ I’m looking to collaborate on ...
-- 📫reach me ...karthik@edubridgeindia.com
+- 📫reach me ...svkarthik86@gmail.com 
 
 <!---
 svkarthik86/svkarthik86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,44 +18,81 @@ You can click the Preview link to take a look at your changes.
 	    <p><strong>Data Analytics Trainer</strong> </p>
 		<img src='https://media-exp1.licdn.com/dms/image/C5103AQHleVX4_Bs2Bg/profile-displayphoto-shrink_400_400/0/1517100487058?e=1675296000&v=beta&t=_zL6fHDd7CdLCfQ3J8Xo3mQEaY_ydAj6Ert3jduu1gs',
 		alt='karthik pic'style='border-style: inset;' width="20%">
-		<hr/>
-		<h2><i>Summary</i></h2>
-		<p>To strive for academic excellence and impart quality education with an emphasis on Computer Science & Engineering. To inculcate the habit of executing effective implementation and rectification of Computer Engineering problems in the minds of all concerned, which they can apply in their professional life in the future.</P>
-		<h2><em>Experience</em></h2>
-		<ul>
-			<li><b>Data Analytics Trainer</b>|2022-present
-			<p> Train the Learner with Programming HTML,CSS,JS,Python</P>
-			</li>
-			<li><b>Corporate Trainer</b>|2019-2022
-			<p> Training with Programming Python , R, SAS</P>
-			</li>
-		</ul>
-		<h2><em>Skills</em></h2>
-		<table border="2">
-			<tr>
-				<th>Technologies</th>
-				<td>Python</td>
-				<td>Java</td>
-				<td>Django Framework</td>
-			</tr>
-			<tr>
-				<th>Soft Skills</th>
-				<td>Problem Solving</td>
-				<td>Team Work</td>
-				<td>Flexibility</td>
-			</tr>
-		</table>
-		<h2><i>Contacts</i></h2>
-<a href="www.linkedin.com/in/svkarthik86" target="_blank">LinkedIN</a>
+		</body>
+		</html>
+		
+# Welcome to my profile webpage!
 
-<a href="https://github.com/svkarthik86" target="_blank">GitHub</a>
-<h2><em>Write me a message</em> </h2>
-<form>
-    <input placeholder="Name" required /><br>
-    <input placeholder="Email" required /><br>
-    <textarea placeholder="Message" required ></textarea><br>
-    <input type="submit" value="SEND"/>
-</form>
+My name is V. Karthik, and I am a highly qualified and experienced professional in the field of Computer Science and Engineering. I hold a B.Tech(Information Technology)., M.E.(Computer Science), and (pursuing PhD) in Computer Science and Engineering, and I have over 13 years of experience in various roles such as Lecturer ,Asst. Professor,Data Analytics / Data Science Trainer in reputed colleges and industries.
 
-	</body>
-</html>
+## Objective
+
+My objective is to strive for academic excellence and impart quality education with an emphasis on Computer Science & Engineering with Specialization of Data Science. I believe in inculcating the habit of executing effective implementation and rectification of Data Science problems in the minds of all concerned, which they can apply in their professional life in the future.
+
+## Skills
+
+I have expertise in various skills such as:
+|   S.No             |  Skills
+| -----------        | -----------   |
+| 1                  | Python        |
+| 2		     | RProgramming  |
+| 3                  | Python        |
+| 4		     | Machine Learning Algorithms  |		
+| 5                  | Excel VBA       |
+| 6		     | SAS Programming |		
+| 7                  | Tableau        |
+| 8		     | SQL- MySQL / NoSQL - MongoDB |		
+| 9                  | Cloud Technology Azure/AWS    |
+	
+
+## Subjects Handled
+
+I have also handled various subjects such as:
+
+- Problem Solving and Python Programming
+- Fundamentals of Computing & Programming
+- Object-Oriented Programming
+- Data Analytics Using Python, R, SAS, and Excel
+- Cloud Computing
+- Machine Learning Algorithms
+- Internet of Things and Securities
+- Python for Data Science
+
+
+## Co-curricular Activities
+
+Apart from my professional experience, I have also participated in various co-curricular activities such as:
+
+- Publishing papers in international and national conferences
+- Attending workshops, FDPs, and seminars
+- Completing online courses in various fields
+
+## Software and Programming Languages
+
+I am proficient in various software and programming languages such as:
+
+- C
+- C++
+- Python
+- Advance Python(Numpy,Pandas,Scipy,Matplotlib,Seaborn)
+- Machine Learning Framework (Sklearn,TensorFlow,Kearas)
+- R-Programming(tidyverse)
+- Java
+- HTML5.0
+- CSS
+- Java Script
+- VB Script
+- MySQL
+- NoSQL: Mango DB
+- and more
+
+## Personal Information
+
+I am a citizen of India and fluent in English and Tamil.
+
+## Contact Information
+
+Thank you for visiting my profile webpage. If you have any queries or would like to connect with me, please feel free to contact me at svkarthik86@gmail.com 
+#### LinkedIn - www.linkedin.com/in/svkarthik86
+
+
