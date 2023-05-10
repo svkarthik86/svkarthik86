@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning and Research...
 - 💞️ I’m looking to collaborate on ...
 - 📫reach me ...svkarthik86@gmail.com 
+what-is-data-analyst.jpg
 
+<img src="what-is-data-analyst.jpg"  width="60%" height="30%">
 <!---
 svkarthik86/svkarthik86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
