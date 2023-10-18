@@ -34,6 +34,8 @@ I have expertise in various skills such as:
 | 7                  | Tableau        |
 | 8		     | SQL- MySQL / NoSQL - MongoDB |		
 | 9                  | Cloud Technology Azure/AWS    |
+| 10                 | Generative AI, LLM, LangChain, Prompt Engineering, ChatGPT, PaLM |
+
 	
 
 ## Subjects Handled
