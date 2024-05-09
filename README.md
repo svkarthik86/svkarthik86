@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 		
 # Welcome to my profile webpage!
 
-My name is V. Karthik, and I am a highly qualified and experienced professional in the field of Computer Science and Engineering. I hold a B.Tech(Information Technology)., M.E.(Computer Science), and (pursuing PhD) in Computer Science and Engineering, and I have over 13 years of experience in various roles such as Lecturer ,Asst. Professor,Data Analytics / Data Science Trainer in reputed colleges and industries.
+My name is V. Karthik, and I am a highly qualified and experienced professional in the field of Computer Science and Engineering. I hold a B.Tech(Information Technology)., M.E.(Computer Science), and (pursuing PhD) in Computer Science and Engineering, and I have over 15 years of experience in various roles such as Lecturer ,Asst. Professor,Data Analytics / Data Science Trainer in reputed colleges and industries.
 
 ## Objective
 
